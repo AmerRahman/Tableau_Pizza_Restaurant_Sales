@@ -27,6 +27,5 @@ This Tableau project analyzes the sales performance of a pizza restaurant over a
 - `AmerRahman_Pizza_Restaurant_Sales.twbx`: The Tableau Packaged Workbook file containing the complete sales analysis and visualizations.
 
 ## How to View the Project
-- [Click here to view the Pizza Restaurant Sales PDF](Pizza%20Restaurant%20Sales%.pdf)
 - [Click here to view the Pizza Restaurant Sales Tableau Project](https://public.tableau.com/app/profile/amer.rahman/viz/AmerRahman_Pizza_Restaurant_Sales/PizzaRestaurantSales?publish=yes)
 
